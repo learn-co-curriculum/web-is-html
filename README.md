@@ -10,4 +10,6 @@ HTML is the basic language that websites are built in. This means that everythin
 
 ![View Source](http://web-dev-readme-photos.s3.amazonaws.com/js/web-is-html-view-source.png)
 
-Much of that will look like gobbledy-gook right now. That's fine right now. While the goal of this course is not to become an HTML expert, we will teach you enough HTML to be a bit dangerous. Once you understand HTML, After taking a few lessons on HTML though, parts will start to reveal themselves. 
+1. * > Much of that will look like gobbledy-gook right now. That's fine right now. While the goal of this course is not to become an HTML expert, we will teach you enough HTML to be a bit dangerous. Once you understand HTML, After taking a few lesson***https://learn.co/study-groups***s on HTML though, parts will start to reveal themselves. [![](http://)](http://)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/web-is-html'>Welcome</a> on Learn.co and start learning to code for free.</p>
