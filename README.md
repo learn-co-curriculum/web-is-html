@@ -12,6 +12,6 @@ On the other hand, if HTML is a new word for you continue forth my friend!
 
 HTML is the basic language that websites are built in. This means that everything you've ever seen on the web eventually makes its way through HTML. You can see HTML all around you in fact. For example, if you just right click on this browser window, and then select "View Page Source" you'll be whisked away to the magical land of HTML. 
 
-![View Source](http://web-dev-readme-photos.s3.amazonaws.com/js/web-is-html-view-source.png)
+![View Source](https://web-dev-readme-photos.s3.amazonaws.com/js/web-is-html-view-source.png)
 
 Much of that will look like gobbledy-gook right now. That's fine right now. While the goal of this course is not to become an HTML expert, we will teach you enough HTML to be a bit dangerous. After taking a few lessons on HTML though, parts will start to reveal themselves. 
