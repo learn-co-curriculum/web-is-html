@@ -2,8 +2,6 @@
 
 Before we start diving into Javascript, we need to first understand something called HTML. The goal of this course is to teach _programming_ through Javascript. To do that, we need to understand a bit about one of the most common uses for Javascript: making websites more dynamic.What _is_ a website though? Websites are just a collection of text files containing HTML. The next few lessons will cover just enough HTML to get you started with Javascript, but is by no means a comprehensive course. 
 
-If, you feel you already understand HTML and CSS feel free to skip this section by selecting the "Curriculum" drop down at the very top, expanding the "Javascript Fundamentals" and the "Javascript Fundamentals Overview" sections and finally selecting "What You'll Learn".
-
 ![Skipping HTML](https://curriculum-content.s3.amazonaws.com/web-development/skipHTML.gif)
 
 On the other hand, if HTML is a new word for you continue forth my friend! 
