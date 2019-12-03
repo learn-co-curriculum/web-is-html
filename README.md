@@ -7,8 +7,8 @@ by adding __CSS__, __JavaScript__ and, finally, __Ruby__.
 
 ## So What is HTML?
 
-HTML (Hypertext Markup Language) is the basic language that websites are built
-in. It’s right underneath the surface of everything you see on the web and you
+HTML (Hypertext Markup Language) is the basic language that websites are built-in. 
+It’s right underneath the surface of everything you see on the web and you
 can uncover it with a couple quick steps. Try this:
 
 1. Open a new browser window or tab and go to [flatironschool.com][site]
@@ -21,11 +21,11 @@ can uncover it with a couple quick steps. Try this:
 
 That might look a little overwhelming right now, but don’t worry—it will get
 clearer as we go on. All you need to pay attention to right now is the fact that
-we can use HTML to create the essential structure all of our webpages.
+we can use HTML to create the essential structure of all of our webpages.
 
 We mentioned above that HTML is a __markup__ language. That means it tells the
 browser how to display information. For example, it says when a piece of text is
-a paragraph, or a link. Later, we’ll also meet a __styling__ language and then a
+a paragraph or a link. Later, we’ll also meet a __styling__ language and then a
 __programming__ language. They all do something slightly different with data,
 but they also work together to make the web.
 
@@ -36,3 +36,5 @@ dynamic websites and web apps.
 
 Now that we’ve introduced HTML, let’s dig into it a little more and see how it
 actually works in the next lesson.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/web-is-html'>The Web is Made of HTML</a> on Learn.co and start learning to code for free.</p>
